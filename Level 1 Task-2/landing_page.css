@@ -1,0 +1,82 @@
+
+
+.landing_page-bg{
+    background-image:url("https://res.cloudinary.com/dua6h3gjp/image/upload/v1709289289/cld-sample-2.jpg");
+    background-size:cover;
+    
+    font-family:Roboto;
+}
+.bg-nav{
+    background-color:#8dd9e3;
+}
+.landing_page-mail{
+    font-size:11px;
+    font-family:Roboto;
+}
+.landing_page-logo{
+    height:50px;
+    width:50px;
+    border-radius:45px;
+}
+.landing_page-carousel{
+   
+}
+.launch-icon{
+    border-style:solid;
+    padding:5px;
+    border-radius:45px;
+    color:white;
+    background-image:linear-gradient(to right,red,yellow)
+}
+.launch-h{
+    font-size:20px;
+    color:brown;
+}
+.launch-p{
+    font-size:13px
+}
+.about-us-bg{
+    background-image:url("https://img.freepik.com/premium-vector/dirty-old-world-map_1102-368.jpg");
+    background-size:cover;
+}
+.about-us-h{
+    font-size:25px;
+    font-weight:600;
+}
+.about-hr{
+    border-top:2px solid red;
+    width:500;
+
+}
+.about-us-img{
+    width:200px;
+    
+}
+.about-us-btn{
+    background-image:linear-gradient(to left,rgb(65, 63, 64),rgb(208, 206, 197))
+}
+.services-bg{
+    background-image:url("https://t3.ftcdn.net/jpg/06/48/82/52/360_F_648825223_TBcDqLeHKE8uHkhTJq43YFS3opzTF0KJ.jpg");
+    background-size:cover;
+
+}
+.services-img{
+    width:200px;
+    border-radius:15px;
+    height:120px;
+}
+.service{
+    background-color:white;
+    border-radius:25px;
+    
+}
+.service-h{
+    font-size:15px;
+    color:rgb(154, 10, 8);
+}
+.ll{
+    color:white;
+    border-radius:15px;
+    padding:5px;
+    background-image:linear-gradient(to right,red,yellow)
+}
